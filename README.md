@@ -10,7 +10,7 @@ A polished, production-minded Twitter/X-style mobile app built with React Native
 
 ❤️ Likes & Comments with smooth modal interactions
 
-🔔 Notifications for likes & comments
+🔔 Notifications for likes & Comments
 
 📬 Messages: chat threads, long‑press to delete messages
 
